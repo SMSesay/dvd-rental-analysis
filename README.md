@@ -6,4 +6,4 @@ The repo is based on the Postgres database of a DVD rental company, the repo exp
 ## This sample database comes from [PostgreSQL tutorial][Postgres]
 
 
-Postgres: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+[Postgres]: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
